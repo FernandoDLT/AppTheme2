@@ -1,0 +1,544 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgrou",
+				"background-size\tproperty"
+			],
+			[
+				"object",
+				"object-fit\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
+			],
+			[
+				"borderr",
+				"border-radius\tproperty"
+			],
+			[
+				"middle",
+				"middle-xs"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"list-s",
+				"list-style\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"conta",
+				"contact"
+			],
+			[
+				"center",
+				"center-md"
+			],
+			[
+				"cener",
+				"center-sm"
+			],
+			[
+				"col-md",
+				"col-md-12"
+			],
+			[
+				"col",
+				"col-sm-10"
+			],
+			[
+				"col-x",
+				"col-xs-12"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"cente",
+				"center-lg"
+			],
+			[
+				"cen",
+				"center-sm"
+			],
+			[
+				"col-",
+				"col-lg-12"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"aling",
+				"align-items\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"grid",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"gridaot",
+				"grid-auto-rows\tproperty"
+			],
+			[
+				"grid-templ",
+				"grid-template-areas\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"grid-",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"textde",
+				"text-decoration\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"f",
+				"flex\tdisplay"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"fons",
+				"font-size\tproperty"
+			],
+			[
+				"textdec",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"list-st",
+				"list-style-type\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"font-fa",
+				"font-family\tproperty"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"boo",
+				"bootstrap"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"padin",
+				"padding-bottom"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"ci",
+				"cite\tTag"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 170.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"Snippet: ",
+				"Snippet: :active"
+			],
+			[
+				"Package Control: inta",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Admin/Documents/MyCoding.Projects/app.theme/index.html",
+		"/C/Users/Admin/Documents/MyCoding.Projects/app.theme/style.css/flexboxgrid.css",
+		"/C/Users/Admin/Documents/MyCoding.Projects/app.theme/style.css",
+		"/C/Users/Admin/Documents/MyCoding.Projects/app.theme/css",
+		"/C/Users/Admin/Documents/MyCoding.Projects/app.theme/.txt",
+		"/C/Users/Admin/Documents/MyCoding.Projects/CSS&HTML.basics/index.html",
+		"/C/Users/Admin/Documents/MyCoding.Projects/CSS&HTML.basics/styles.css",
+		"/C/Users/Admin/Documents/MyCoding.Projects/css.PluralsightLoginPage/style.css",
+		"/C/Users/Admin/Documents/MyCoding.Projects/css.PluralsightLoginPage/index.html",
+		"/C/Users/Admin/Documents/MyCoding.Projects/burger.menu/index.html",
+		"/C/Users/Admin/Documents/MyCoding.Projects/burger.menu/style.css",
+		"/C/Users/Admin/Documents/MyCoding.Projects/CSS&HTML.basics/about.html",
+		"/C/Users/Admin/Documents/MyCoding.Projects/CSS&HTML.basics/New folder/style.css",
+		"/C/Users/Admin/Documents/MyCoding.Projects/CSS&HTML.basics/images/markus-spiske-iar-afB0QQw-unsplash.jpg",
+		"/C/Users/Admin/Documents/MyCoding.Projects/CSS&HTML.basics/images/nasa-Q1p7bh3SHj8-unsplash.jpg",
+		"/C/Users/Admin/Documents/MyCoding.Projects/CSS&HTML.basics/images/pexels-photo-533923.jpeg",
+		"/C/Users/Admin/Documents/MyCoding.Projects/CSS&HTML.basics/images/markus-spiske-hvSr_CVecVI-unsplash.jpg",
+		"/C/Users/Admin/Documents/MyCoding.Projects/CSS&HTML.basics/images/kobu-agency-67L18R4tW_w-unsplash.jpg",
+		"/C/Users/Admin/Documents/MyCoding.Projects/CSS&HTML.basics/images/kevin-ku-aiyBwbrWWlo-unsplash.jpg",
+		"/C/Users/Admin/Documents/MyCoding.Projects/CSS&HTML.basics/images/joshua-reddekopp-SyYmXSDnJ54-unsplash.jpg",
+		"/C/Users/Admin/Documents/MyCoding.Projects/CSS&HTML.basics/images/fernando-hernandez-JdoofvUDUwc-unsplash.jpg",
+		"/C/Users/Admin/Documents/MyCoding.Projects/CSS&HTML.basics/images/azharul-islam-9LMGWHqUwnc-unsplash.jpg",
+		"/C/Users/Admin/Documents/MyCoding.Projects/CSS&HTML.basics/images/anas-alshanti-feXpdV001o4-unsplash.jpg",
+		"/C/Users/Admin/Pictures/K&A/New folder/Menu",
+		"/C/Users/Admin/Documents/BurgerMenu CSSHTML/index.html",
+		"/C/Users/Admin/Documents/BurgerMenu CSSHTML/style.css",
+		"/C/Users/Admin/Documents/css.PluralsightLoginPage/style.css",
+		"/C/Users/Admin/Documents/css.PluralsightLoginPage/index.html",
+		"/C/Users/Admin/Desktop/projects/CSS Layouts/main.css",
+		"/C/Users/Admin/Desktop/projects/page2.html",
+		"/C/Users/Admin/Documents/css.PluralsightLoginPage/styles.css",
+		"/C/Header/index.html",
+		"/C/Header/style.css",
+		"/C/Users/Admin/Documents/tutorial.html",
+		"/C/Users/Admin/Documents/index.html",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe",
+		"/C/Program Files/Sublime Text 3/subl.exe",
+		"/C/Users/Admin/Desktop/projects/Bootstrap  Tut Layouts/main.css",
+		"/C/Users/Admin/Desktop/projects/Bootstrap  Tut Layouts/index.html",
+		"/C/Users/Admin/Desktop/projects/Bootsrap  Tut Layouts/main.css",
+		"/C/Users/Admin/Desktop/projects/CSS Layouts/index.html",
+		"/C/Users/Admin/Desktop/projects/htmlcsstutorial/main.css",
+		"/C/Users/Admin/Desktop/projects/htmlcsstutorial/index.html",
+		"/C/Users/Admin/Desktop/projects/htmlcsstutorial/page2.html",
+		"/C/Users/Admin/Desktop/projects/htmlcsstutorial/page3.html",
+		"/C/Users/Admin/Desktop/projects/beachlanding/css/style.css",
+		"/C/Users/Admin/Desktop/projects/beachlanding/index.html",
+		"/C/Users/Admin/Desktop/HTMLcheatsheet/index.html",
+		"/C/Users/Admin/Desktop/styles.css",
+		"/C/Users/Admin/Desktop/index.html",
+		"/C/Users/Admin/Desktop/page2.html",
+		"/C/Users/Admin/Desktop/page3.html",
+		"/C/Users/Admin/Desktop/csscrashcourse/csscheatsheet/css/style.css",
+		"/C/Users/Admin/Desktop/jimmyblowjobs/styles.css",
+		"/C/Users/Admin/Desktop/Devs Tutorial/style.css",
+		"/C/Users/Admin/Desktop/jimmyblowjobs/index.html",
+		"/C/Users/Admin/Desktop/main.css",
+		"/C/Users/Admin/Desktop/yttut/index.html",
+		"/C/Users/Admin/Desktop/yttut/style.css",
+		"/C/Users/Admin/Desktop/index",
+		"/C/Users/Admin/Desktop/csscrashcourse/csscheatsheet/index.html",
+		"/C/Users/Admin/Desktop/HTMLcheatsheet/blog.html",
+		"/C/Users/Admin/Desktop/csscrashcourse/csscheatcheet/css/style.css",
+		"/C/Users/Admin/Desktop/csscrashcourse/csscheatcheet/index.html/index.html",
+		"/C/Users/Admin/Desktop/devstut/style.css",
+		"/C/Users/Admin/Desktop/Devs Tutorial/index.html",
+		"/C/Users/Admin/Desktop/devstut/index.html",
+		"/C/Users/Admin/Desktop/devstut/html.txt",
+		"/C/Users/Admin/Desktop/html.cheatsheet/index.html",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/Choose Browser.sublime-build",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Program Files (x86)/Sublime Text 3/sublime_text.exe",
+		"/C/Users/Admin/import urllib.request,os,hashlib; h = '6f4c264a24d",
+		"/C/Users/Admin/Desktop/Devs Tutorial/earth.jpg",
+		"/C/Users/Admin/Desktop/earthwindfire/style.css",
+		"/C/Users/Admin/index.html.tutorial"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "about.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"<!DOCTYPE html>"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 148.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
